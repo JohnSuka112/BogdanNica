@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PetTrans UK - Safe Pet Transport</title>
     <style>
+        background-image: url('https://github.com/JohnSuka112/BogdanNica/blob/dffce38004ef36d672a1a541775cc05c05f863ca/4E7D3A83-4CC6-492F-B29D-008ECD740E6F.PNG');
         body {
             font-family: Arial, sans-serif;
             margin: 0;
